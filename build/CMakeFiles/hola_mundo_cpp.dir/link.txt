@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hola_mundo_cpp.dir/link.d CMakeFiles/hola_mundo_cpp.dir/hola_mundo.cpp.o -o hola_mundo_cpp

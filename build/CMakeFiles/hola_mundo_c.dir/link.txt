@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/hola_mundo_c.dir/link.d CMakeFiles/hola_mundo_c.dir/hola_mundo.c.o -o hola_mundo_c

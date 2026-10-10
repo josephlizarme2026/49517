@@ -1,0 +1,4 @@
+/home/vboxuser/49517/build/CMakeFiles/hola_mundo_c.dir
+/home/vboxuser/49517/build/CMakeFiles/hola_mundo_cpp.dir
+/home/vboxuser/49517/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/49517/build/CMakeFiles/rebuild_cache.dir
